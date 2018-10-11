@@ -1,0 +1,7 @@
+Training Results for model with 2 layers of 10012 neurons and a learning rate of 0.0003 
+
+ Training Root mean square error: 2317.6012383496864
+
+ Testing Root mean square error: 2428.208701903525
+
+ Valid Root mean square error: 2453.4070188209703
